@@ -3,5 +3,7 @@
 2. Different Approaches of Feature Selection
    
 2.1. LASSO
+
 2.2. LASSO + LDA
+
 2.3. GENETIC LGORITHM
